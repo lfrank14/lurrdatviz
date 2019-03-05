@@ -1,0 +1,16 @@
+Package: lurrdatviz
+Title: Lea Frank DataViz Final Project
+Version: 0.0.0.9000
+Authors@R: person("Lea", "Frank", email = "lfrank@uoregon.edu", role = c("aut", "cre"))
+Description: This package contains all of the data and some functions that I will use for my final project.
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+URL:
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests:
+  dplyr,
+  psych,
+  magrittr,
+  reshape2
